@@ -10,7 +10,7 @@
             "email": "karsoft92@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
          "php": "^7.4|^8.0"
      },
