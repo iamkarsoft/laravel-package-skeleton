@@ -3,12 +3,14 @@
     "description": "a scaffold for creating laravel packages",
     "type": "project",
     "license": "MIT",
+    "homepage": "https://github.com/iamkarsoft/laravel-package-skeleton",
     "authors": [
         {
             "name": "Kofi Ramos Amoussou",
             "email": "karsoft92@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
          "php": "^7.4|^8.0"
      },
