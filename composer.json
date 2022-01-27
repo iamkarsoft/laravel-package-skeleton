@@ -1,0 +1,13 @@
+{
+    "name": "iamkarsoft/laravel-package-skeleton",
+    "description": "a scaffold for creating laravel packages",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kofi Ramos Amoussou",
+            "email": "karsoft92@gmail.com"
+        }
+    ],
+    "require": {}
+}
