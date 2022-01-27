@@ -10,14 +10,13 @@
             "email": "karsoft92@gmail.com"
         }
     ],
-    
     "require": {
-         "php": "^7.4|^8.0",
-         "iamkarsoft/laravel-package-skeleton":"dev-master@dev"
+         "php": "^7.3|^8.0"
      },
     "require-dev": {
         "orchestra/testbench": "^6.20",
         "phpunit/phpunit": "^9.5"
-     }
- 
+     },
+    "minimum-stability": "dev",
+    "prefer-stable": true
   }
