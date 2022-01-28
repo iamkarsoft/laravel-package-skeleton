@@ -1,6 +1,6 @@
 # Laravel Package Skeleton 
 
-a scaffold for creating laravel apps
+a scaffold for creating laravel packages
 
 
 
