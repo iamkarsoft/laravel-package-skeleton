@@ -15,7 +15,8 @@
      },
     "require-dev": {
         "orchestra/testbench": "^6.20",
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^9.5",
+        "friendsofphp/php-cs-fixer": "dev-master"
      },
     "minimum-stability": "dev"
   }
